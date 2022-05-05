@@ -15,7 +15,7 @@ if (firstprompt == "Quizlet") {
     document.getElementsByClassName("UIButton UIButton--hero")[0].click();
     setTimeout(function() {
       for (var F = setTimeout(";"), i = 0; i < F; i++) clearTimeout(i)
-    }, 499);
+    }, 5000);
 }    
     if (quizlettext == "Gravity") {
     	var gravityScore,
